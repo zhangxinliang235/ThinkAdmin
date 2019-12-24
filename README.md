@@ -26,13 +26,13 @@ PHP 开发技术交流（ QQ 群 513350915）
 代码仓库
 --
  framework 为 MIT 协议开源项目，安装使用或二次开发不受约束，欢迎 fork 项目。
- 
+
  部分代码来自互联网，若有异议可以联系作者进行删除。
- 
+
  * 在线体验地址：https://demo.thinkadmin.top （账号和密码都是 admin ）
  * Gitee仓库地址：https://gitee.com/zoujingli/ThinkAdmin
  * GitHub仓库地址：https://github.com/zoujingli/ThinkAdmin
- 
+
 框架指令
 --
 * 执行 `build.cmd` 可更新 `Composer` 插件，会删除并替换 `vendor` 目录
@@ -60,7 +60,7 @@ PHP 开发技术交流（ QQ 群 513350915）
 * 其它自定工具
 >* 执行 `php think xclean:session` 清理无效的会话SESSION文件
 >* 执行 `php think xclean:store` 清理无效的订单信息及定时任务
- 
+
 特别感谢
 --
 |名称|版本|描述|链接|
@@ -79,3 +79,4 @@ PHP 开发技术交流（ QQ 群 513350915）
 --
 ![赞助](http://zoujingli.oschina.io/static/pay.png)
 
+啊啊啊
